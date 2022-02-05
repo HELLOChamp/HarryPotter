@@ -22,7 +22,7 @@ function preload(){
   waterImg = loadImage("assets/water.png")
   killImg = loadImage("assets/kill.png")
   sound = loadSound("nature.mp3")
-  defeatImg = loadImage("assets/defeat.png")
+  defeatImg = loadImage("assets/defeat.PNG")
 
 }
 
